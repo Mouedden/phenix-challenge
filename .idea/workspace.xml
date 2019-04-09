@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f1542ac-8c1c-4bf1-8c69-81a90bd47928" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Trying.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/tools/request.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/tools/tools.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/app.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/app.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/app$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/app$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/app.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/app.class" afterDir="false" />
-    </list>
+    <list default="true" id="5f1542ac-8c1c-4bf1-8c69-81a90bd47928" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -242,16 +232,15 @@
       <workItem from="1554705904173" duration="9121000" />
       <workItem from="1554717076432" duration="11510000" />
       <workItem from="1554751989901" duration="592000" />
-      <workItem from="1554793414815" duration="9679000" />
+      <workItem from="1554793414815" duration="9956000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34105000" />
+    <option name="totallyTimeSpent" value="34382000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20809716" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
