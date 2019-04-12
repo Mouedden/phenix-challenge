@@ -1,3 +1,5 @@
+import java.io.{BufferedWriter, FileWriter}
+
 import org.scalatest.FunSuite
 class FileCheckingTest extends FunSuite{
   test("Transaction file name") {
@@ -16,5 +18,4 @@ class FileCheckingTest extends FunSuite{
     assert(tools.tools.checkReferencesFilesNames("reference_prod-10f2f3e6-g728-41f3-43b0aa758292.data") === false)
     assert(tools.tools.checkReferencesFilesNames("reference_prod-10f2f3e6-g728-41f3-b079-43b0aa7582920.data") === false)
   }
-
 }

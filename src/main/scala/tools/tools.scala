@@ -1,8 +1,8 @@
 package tools
 
 object tools {
-  def split(line: String): Array[String] = {
-    "\\|".r.split(line)
+  def split(line: String, ch: Char): Array[String] = {
+    "\\".concat(ch.toString).r.split(line)
   }
 
   def checkTransactionFileName(fileName: String): Boolean = {
