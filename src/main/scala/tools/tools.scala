@@ -6,7 +6,7 @@ object tools {
   }
 
   def checkTransactionFileName(fileName: String): Boolean = {
-    if (fileName.startsWith("transaction_") && regularExpressionForDate(fileName.substring(12, 22)) && fileName.endsWith(".data") && fileName.length == 27)
+    if (fileName.startsWith("transactions_") && regularExpressionForDate(fileName.substring(13, 21)) && fileName.endsWith(".data") && fileName.length == 26)
       true
     else
       false
@@ -20,7 +20,7 @@ object tools {
   }
 
   def regularExpressionForDate(str: String): Boolean = {
-    if (str.matches("([12]\\d{3}-(0[1-9]|1[0-2])-(0[1-9]|[12]\\d|3[01]))"))
+    if (str.matches("([12]\\d{3}(0[1-9]|1[0-2])(0[1-9]|[12]\\d|3[01]))"))
       true
     else
       false

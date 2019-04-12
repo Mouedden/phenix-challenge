@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f1542ac-8c1c-4bf1-8c69-81a90bd47928" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/tools/map.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/scala/ResultsTests.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/Trying.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Trying.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/app.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/app.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/tools/request.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/tools/request.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/tools/tools.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/tools/tools.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/scala/FileCheckingTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/FileCheckingTest.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/app$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/app$.class" afterDir="false" />
@@ -28,8 +24,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/scala/FileCheckingTest.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+            <state relative-caret-position="85">
+              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
               <folding>
                 <element signature="e#0#43#0" expanded="true" />
               </folding>
@@ -37,7 +33,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/scala/ResultsTests.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
@@ -52,20 +48,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/tools/tools.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="35" selection-start-line="35" selection-end-line="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/Trying.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="515">
-              <caret line="61" column="22" lean-forward="true" selection-start-line="61" selection-start-column="22" selection-end-line="61" selection-end-column="22" />
-              <folding>
-                <element signature="e#0#42#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="119">
+              <caret line="7" column="61" selection-start-line="7" selection-start-column="61" selection-end-line="7" selection-end-column="61" />
             </state>
           </provider>
         </entry>
@@ -74,7 +58,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/scala/tools/request.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="131">
-              <caret line="15" column="150" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="150" />
+              <caret line="15" column="150" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="150" />
               <folding>
                 <element signature="e#15#58#0" expanded="true" />
               </folding>
@@ -86,16 +70,16 @@
         <entry file="file://$PROJECT_DIR$/src/main/scala/tools/map.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/app.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="98" selection-start-line="4" selection-start-column="98" selection-end-line="4" selection-end-column="98" />
+            <state relative-caret-position="85">
+              <caret line="5" column="53" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -127,14 +111,14 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/scala/tools/tools.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/Trying.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/tools/map.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/app.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/tools/request.scala" />
-        <option value="$PROJECT_DIR$/src/test/scala/FileCheckingTest.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/resultsTests.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/ResultsTests.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/FileCheckingTest.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/tools/tools.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/app.scala" />
       </list>
     </option>
   </component>
@@ -178,38 +162,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="PhenixChallenge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PhenixChallenge" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PhenixChallenge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PhenixChallenge" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="tools" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PhenixChallenge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PhenixChallenge" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PhenixChallenge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PhenixChallenge" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PhenixChallenge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -243,7 +195,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="ScalaTest.ResultsTests">
+  <component name="RunManager" selected="Application.app">
     <configuration name="Trying" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Trying" />
       <module name="PhenixChallenge" />
@@ -316,10 +268,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="ScalaTest.ResultsTests" />
-        <item itemvalue="ScalaTest.FileCheckingTest" />
-        <item itemvalue="ScalaTest.ScalaTests in 'scala'" />
         <item itemvalue="Application.app" />
+        <item itemvalue="ScalaTest.FileCheckingTest" />
+        <item itemvalue="ScalaTest.ResultsTests" />
+        <item itemvalue="ScalaTest.ScalaTests in 'scala'" />
         <item itemvalue="Application.Trying" />
       </list>
     </recent_temporary>
@@ -348,44 +300,44 @@
       <workItem from="1554923319658" duration="4497000" />
       <workItem from="1554965706779" duration="24640000" />
       <workItem from="1555016658017" duration="7580000" />
-      <workItem from="1555052831279" duration="2795000" />
+      <workItem from="1555052831279" duration="5266000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FileCheckingTest - 2019.04.12 at 09h 47m 47s.xml">
+    <history-entry file="FileCheckingTest - 2019.04.12 at 10h 25m 45s.xml">
       <configuration name="FileCheckingTest" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="FileCheckingTest - 2019.04.12 at 09h 47m 58s.xml">
+    <history-entry file="FileCheckingTest - 2019.04.12 at 10h 27m 17s.xml">
       <configuration name="FileCheckingTest" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="FileCheckingTest - 2019.04.12 at 09h 48m 26s.xml">
+    <history-entry file="FileCheckingTest - 2019.04.12 at 10h 27m 35s.xml">
       <configuration name="FileCheckingTest" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="FileCheckingTest - 2019.04.12 at 09h 49m 11s.xml">
+    <history-entry file="FileCheckingTest - 2019.04.12 at 10h 29m 59s.xml">
       <configuration name="FileCheckingTest" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="FileCheckingTest - 2019.04.12 at 09h 49m 21s.xml">
+    <history-entry file="FileCheckingTest - 2019.04.12 at 10h 30m 20s.xml">
       <configuration name="FileCheckingTest" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="FileCheckingTest - 2019.04.12 at 09h 49m 57s.xml">
+    <history-entry file="FileCheckingTest - 2019.04.12 at 10h 30m 47s.xml">
       <configuration name="FileCheckingTest" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="FileCheckingTest - 2019.04.12 at 09h 50m 10s.xml">
+    <history-entry file="FileCheckingTest - 2019.04.12 at 10h 30m 54s.xml">
       <configuration name="FileCheckingTest" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="FileCheckingTest - 2019.04.12 at 09h 50m 29s.xml">
+    <history-entry file="FileCheckingTest - 2019.04.12 at 10h 31m 19s.xml">
       <configuration name="FileCheckingTest" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="FileCheckingTest - 2019.04.12 at 09h 50m 48s.xml">
+    <history-entry file="FileCheckingTest - 2019.04.12 at 10h 31m 31s.xml">
       <configuration name="FileCheckingTest" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="FileCheckingTest - 2019.04.12 at 09h 51m 24s.xml">
+    <history-entry file="FileCheckingTest - 2019.04.12 at 10h 31m 46s.xml">
       <configuration name="FileCheckingTest" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="101552000" />
+    <option name="totallyTimeSpent" value="104023000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -409,7 +361,7 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49959514" visible="true" weight="0.34991118" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49959514" visible="true" weight="0.45115453" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.54174066" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -463,20 +415,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/app.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="98" selection-start-line="4" selection-start-column="98" selection-end-line="4" selection-end-column="98" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/tools/tools.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/Trying.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="515">
@@ -487,23 +425,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/tools/request.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="15" column="150" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="150" />
-          <folding>
-            <element signature="e#15#58#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/tools/map.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/scala/resultTests.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -511,12 +432,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/FileCheckingTest.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/tools/request.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+        <state relative-caret-position="131">
+          <caret line="15" column="150" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="150" />
           <folding>
-            <element signature="e#0#43#0" expanded="true" />
+            <element signature="e#15#58#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -528,6 +449,37 @@
           <folding>
             <element signature="e#0#43#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/FileCheckingTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/tools/tools.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="61" selection-start-line="7" selection-start-column="61" selection-end-line="7" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/tools/map.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/app.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="53" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
         </state>
       </provider>
     </entry>
